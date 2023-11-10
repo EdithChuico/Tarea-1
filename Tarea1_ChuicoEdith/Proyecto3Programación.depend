@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1691796805 source:c:\users\hp\downloads\proyecto3programación\main.cpp
+	<iostream>
+	"Lib1G2.h"
+
+1691796817 c:\users\hp\downloads\proyecto3programación\lib1g2.h
+	<iostream>
+	"L2G2.h"
+	<iostream>
+	<stdlib.h>
+
+1691797277 c:\users\hp\downloads\proyecto3programación\l2g2.h
+	"L3G2.h"
+	<iostream>
+	<stdlib.h>
+	<string.h>
+
+1691797816 c:\users\hp\downloads\proyecto3programación\l3g2.h
+	<iostream>
+	<algorithm>
+	<string.h>
+	"L2G2.h"
+
